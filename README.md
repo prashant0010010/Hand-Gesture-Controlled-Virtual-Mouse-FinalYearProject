@@ -20,8 +20,17 @@ Step 5:
 cd to the GitHub Repo till src folder
 Command may look like: cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src
 
+
+
+
 to run:
 
 Run: python main.py
 then
 click on start button and perform mouse actions
+
+
+outputs:
+![image](https://github.com/prashant0010010/FinalyYearProject/assets/66554757/50c76d51-2a6f-41a4-a36c-595cff15c683)
+![image](https://github.com/prashant0010010/FinalyYearProject/assets/66554757/8f94165e-3022-4367-b043-224a01454c60)
+
